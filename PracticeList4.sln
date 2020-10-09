@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeList4", "PracticeList4\PracticeList4.csproj", "{DFF985B2-AA08-4EB9-8235-BD44A9011B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFF985B2-AA08-4EB9-8235-BD44A9011B5A}.Debug|x86.ActiveCfg = Debug|x86
+		{DFF985B2-AA08-4EB9-8235-BD44A9011B5A}.Debug|x86.Build.0 = Debug|x86
+		{DFF985B2-AA08-4EB9-8235-BD44A9011B5A}.Release|x86.ActiveCfg = Release|x86
+		{DFF985B2-AA08-4EB9-8235-BD44A9011B5A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

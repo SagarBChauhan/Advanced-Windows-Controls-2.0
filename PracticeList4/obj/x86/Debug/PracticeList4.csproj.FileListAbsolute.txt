@@ -1,0 +1,33 @@
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.Leave.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.Properties.Resources.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.csproj.GenerateResource.Cache
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\bin\Debug\PracticeList4.exe
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\bin\Debug\PracticeList4.pdb
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.exe
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.pdb
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.csprojResolveAssemblyReference.cache
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.Enrollment.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.Product.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.medicines.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.StudentScore.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.JobMaster.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.restaurant.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.Bill.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.Job_Search.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.exe
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.pdb
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\bin\Debug\PracticeList4.exe
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\bin\Debug\PracticeList4.pdb
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.csprojResolveAssemblyReference.cache
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.Bill.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.Enrollment.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.JobMaster.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.Job_Search.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.Leave.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.medicines.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.Product.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.Properties.Resources.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.restaurant.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.StudentScore.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.csproj.GenerateResource.Cache
+E:\Study\SEM4\GUI Programming\Visual Studio\PracticeList4\PracticeList4\obj\x86\Debug\PracticeList4.Search.resources
